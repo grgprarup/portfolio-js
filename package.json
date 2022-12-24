@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-js",
+  "version": "0.0.0",
+    "description": "Portfolio JS",
+  "author": {
+    "name": "Prarup Gurung",
+    "email": "grgprarup@gmail.com",
+    "url": "http://www.prarupgurung.com.np",
+    "github": "http://www.github.com/grgprarup",
+    "linkedin": "http://www.linkedin.com/in/prarupgurung"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
